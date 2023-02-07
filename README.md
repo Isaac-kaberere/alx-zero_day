@@ -1,2 +1,3 @@
 My first readme
-I am an ALX student
+I love the ALX program
+I am a student
